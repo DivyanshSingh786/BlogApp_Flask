@@ -1,0 +1,18 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root@localhost/thecodingsingh",
+    "prod_uri": "mysql://root@localhost/thecodingsingh",
+    "twitter_url": "https://twitter.com/thecodingsingh",
+    "linkedin_url": "https://linkedin.com/thecodingsingh",
+    "github_url": "https://github.com/thecodingsingh",
+    "blog_name": "The Coding Singh",
+    "gmail-user": "co.b.44.divyansh.singh@gmail.com",
+    "gmail-password": "voryhvfkajhjkosj",
+    "about_text": "Hi my name is Divyansh and I create this wonderfull blog website using flask and I am a good boy.",
+    "no_of_posts": 5,
+    "login_image": "login.svg",
+    "admin_user": "admin",
+    "admin_password": "admin"
+  }
+}
